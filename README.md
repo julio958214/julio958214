@@ -6,7 +6,7 @@
 
 #####		:green_book: - Estou cursando Analise e desevolvimento de sistemas
 
-#####   :pencil2: - JavaScript, Ruby, Cucumber
+#####   :pencil2: - JavaScript, Ruby
 
  <div>
   <a href="https://github.com/julio958214">
