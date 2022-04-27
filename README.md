@@ -2,7 +2,7 @@
 
 #####   :blush: - Trabalho com qualidade de software
 
-#####   :books: - Executo testes manuais, e testes automatizados nas camadas front-end e back-end
+#####   :books: - Executo testes manuais e automatizados front-end e back-end
 
 #####		:green_book: - Estou cursando Analise e desevolvimento de sistemas
 
